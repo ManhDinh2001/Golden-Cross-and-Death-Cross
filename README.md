@@ -1,5 +1,5 @@
 # Stock Analysis
-# Date Set
+  # Date Set
 
 The dataset provided here has been extracted from the investing.com website. The Stock price data provided is from 02/01/2020 to 18/04/2023 for six stocks: MWG, MSN, HPG, HSG, EIB, SSI
 
